@@ -1,0 +1,30 @@
+[
+    {
+        "productName": "Textured Puffer Jacket",
+        "productImage": "https: //static.zara.net/photos///2020/I/0/2/p/0706/422/802/2/w/951/0706422802_1_1_1.jpg?ts=1592906371063",
+        "productCategory": "Jacket",
+        "productDescription": "Specially for Winters | Best Buy",
+        "productPrice": 2790.00
+    },
+    {
+        "productName": "Linear Blazer",
+        "productImage": "https: //di2ponv0v5otw.cloudfront.net/posts/2019/06/09/5cfcdb945b565f91c9eabd18/m_5cfcdb975689968b2936e0c7.jpeg",
+        "productCategory": "Blazers",
+        "productDescription": "Specially for Winters | Best Buy",
+        "productPrice": 3290.79
+    },
+    {
+        "productName": "Skinny Swimwear",
+        "productImage": "https: //cdn1.storehippo.com/s/5c2f4c807a4c294f479436f5/ms.products/5d5c3f39a85e472d45335678/images/5d5c3f39a85e472d45335679/5d5c3f3ca85e472d4533569c/5d5c3f3ca85e472d4533569c-1024x1024.jpg",
+        "productCategory": "Swimwear",
+        "productDescription": "Specially for Winters | Best Buy",
+        "productPrice": 1499.00
+    },
+    {
+        "productName": "Classic Mens Wallet",
+        "productImage": "https: //img5.cfcdn.club/f9/d7/f92a628d002de1bbfead9b6d7c6360d7_350x350.jpg",
+        "productCategory": "Wallets",
+        "productDescription": "Specially for Winters | Best Buy",
+        "productPrice": 1450.50
+    }
+]
